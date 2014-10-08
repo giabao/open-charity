@@ -1,1 +1,10 @@
 /activator*
+/public/javascripts/
+/public/stylesheets/
+/.idea/
+/bower_components/
+/node_modules/
+/project/project/
+/project/target/
+/target/
+/typings/
